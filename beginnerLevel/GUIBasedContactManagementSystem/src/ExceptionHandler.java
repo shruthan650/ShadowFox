@@ -33,4 +33,10 @@ public class ExceptionHandler {
             }
         }
     }
+
+  void nameHandler(String name) {
+        if(name.isEmpty()) {
+            throw new IllegalArgumentException("Name cannot be empty");
+        }
+    }
 }
