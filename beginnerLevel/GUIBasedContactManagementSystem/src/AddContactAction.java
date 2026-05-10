@@ -19,6 +19,7 @@ public class AddContactAction {
                 String phone = phoneField.getText();
                 String email = emailField.getText();
 
+                handler.nameHandler(name);
                 handler.phoneHandler(phone, contacts);
                 handler.emailHandler(email, contacts);
 
