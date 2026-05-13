@@ -64,7 +64,7 @@ bank-management-system-junit
 
 ---
 
-##  Testing
+## Testing
 
 JUnit 5 test cases were added for:
 
@@ -84,7 +84,7 @@ mvn test
 
 ---
 
-## 📸 Sample Console Output
+## Sample Console Output
 
 ```text
 BANK MANAGEMENT SYSTEM
@@ -111,7 +111,7 @@ BANK MANAGEMENT SYSTEM
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shruthan T M**
 
