@@ -300,7 +300,7 @@ public class LibraryManagement extends JFrame {
 	        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	        setSize(800, 600);
 	        setLocationRelativeTo(null);
-	        setTitle("Library Management System by DataFlair");
+	        setTitle("Library Management System");
 	        setVisible(true);
 	    }
 public static void main(String[] args) {
